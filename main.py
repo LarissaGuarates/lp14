@@ -9,3 +9,4 @@ file.write(
 file.seek(0, 0)
 print(file.read())
 file.close()
+print('nova versao do codigo')
